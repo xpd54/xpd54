@@ -18,10 +18,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/raviprakashxpd54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviprakashxpd54" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5149183/ravi-prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5149183/ravi-prakash" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/xpd54" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="xpd54" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chun_lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chun_lee" height="30" width="40" /></a>
-</p>
 <br>
 <h2 align="center">Languages and Tools I have worked with:</h2>
 <p align="left">
