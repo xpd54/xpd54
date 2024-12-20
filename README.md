@@ -32,5 +32,5 @@
 <h2 align="center">Here are some stats.</h2>
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xpd54&" alt="xpd54" /></p> -->
 <p align="center"><img src="https://streak-stats.demolab.com?user=xpd54&theme=dark" alt="GitHub Streak" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xpd54&show_icons=true&locale=en&layout=compact" alt="xpd54" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xpd54&show_icons=true&locale=en&layout=compact&theme=dark&card_width=500" alt="xpd54" /></p>
 
