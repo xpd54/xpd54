@@ -6,13 +6,12 @@
 
 - 🌱 I’m currently learning **C++, Python**
 
-- 💬 Ask me about **NodeJs, MongoDB, Backend and App Development**
+- 💬 Ask me about ** Typescript, NodeJs, MongoDB, Backend and App Development**
 
 - 📫 How to reach me **raviprakash.xpd54@gmail.com**
 
 - 📄 Want to know about my experiences check here 👉 [Resume](https://github.com/xpd54/Resume/blob/master/Ravi_Prakash_Resume.pdf)
 
-- ⚡ Fun fact **I can tell a motorcycle brand just by listening to its sound. 🛵**
 <br><br>
 
 <h3 align="center">Connect with me:</h3>
