@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **C++, Python**
 
-- 💬 Ask me about ** Typescript, NodeJs, MongoDB, Backend and App Development**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **raviprakash.xpd54@gmail.com**
-
-- 📄 Want to know about my experiences check here 👉 [Resume](https://github.com/xpd54/Resume/blob/master/Ravi_Prakash_Resume.pdf)
 
 <br><br>
 
